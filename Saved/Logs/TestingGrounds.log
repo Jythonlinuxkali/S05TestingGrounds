@@ -507,3 +507,16 @@ Please see Output Log for details.
 [2018.07.06-21.46.23:774][830]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2018.07.06-21.46.56:796][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.07.06-21.48.01:871][336]LogSlate: Window 'Add Content to the Project' being destroyed
+[2018.07.06-21.56.29:519][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-21.56.50:114][916]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.07.06-21.56.54:731][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-21.56.56:230][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-21.57.24:356][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-21.57.27:176][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-21.57.32:604][859]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2018.07.06-21.57.37:945][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.06-21.57.42:481][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.06-21.57.43:179][ 21]LogSavePackage: Save=143.98ms
+[2018.07.06-21.57.43:179][ 21]LogSavePackage: Moving 'D:/Unreal/TestingGrounds/Saved/FirstPersonExampleMap936843F7461F7742A91FC5BC35FE9853.tmp' to 'D:/Unreal/TestingGrounds/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap'
+[2018.07.06-21.57.43:182][ 21]LogSavePackage: Display: Finished SavePackage D:/Unreal/TestingGrounds/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap
+[2018.07.06-21.57.43:192][ 21]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.700
