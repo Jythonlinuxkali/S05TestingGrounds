@@ -389,3 +389,121 @@ LogInit: Object subsystem initialized
 [2018.07.06-21.37.56:730][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.07.06-21.37.56:731][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000214 seconds (updated 0 objects)
 [2018.07.06-21.38.16:787][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-21.45.43:776][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPersonFire_Montage.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset
+[2018.07.06-21.45.43:777][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_AnimBP.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset
+[2018.07.06-21.45.43:777][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_Fire.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Animations/FirstPerson_Fire.uasset
+[2018.07.06-21.45.43:778][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_Idle.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Animations/FirstPerson_Idle.uasset
+[2018.07.06-21.45.43:778][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_JumpEnd.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset
+[2018.07.06-21.45.43:779][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_JumpLoop.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset
+[2018.07.06-21.45.43:780][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_JumpStart.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset
+[2018.07.06-21.45.43:780][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Animations/FirstPerson_Run.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Animations/FirstPerson_Run.uasset
+[2018.07.06-21.45.43:781][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Audio/FirstPersonTemplateWeaponFire02.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset
+[2018.07.06-21.45.43:781][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/M_UE4Man_Body.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset
+[2018.07.06-21.45.43:782][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.07.06-21.45.43:783][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.07.06-21.45.43:783][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.07.06-21.45.43:784][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.07.06-21.45.43:784][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.07.06-21.45.43:785][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.07.06-21.45.43:786][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.07.06-21.45.43:787][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.07.06-21.45.43:788][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Mesh/SK_Mannequin_Arms.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset
+[2018.07.06-21.45.43:789][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset
+[2018.07.06-21.45.43:790][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset
+[2018.07.06-21.45.43:791][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Textures/UE4_LOGO_CARD.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset
+[2018.07.06-21.45.43:791][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.07.06-21.45.43:792][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Character/Textures/UE4_Mannequin__normals.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset
+[2018.07.06-21.45.43:793][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/M_FPGun.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset
+[2018.07.06-21.45.43:793][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.07.06-21.45.43:794][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.07.06-21.45.43:795][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset
+[2018.07.06-21.45.43:796][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.07.06-21.45.43:797][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.07.06-21.45.43:797][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.07.06-21.45.43:804][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.07.06-21.45.43:804][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.07.06-21.45.43:805][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Mesh/SK_FPGun.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset
+[2018.07.06-21.45.43:806][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset
+[2018.07.06-21.45.43:807][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Textures/T_FPGun_M.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset
+[2018.07.06-21.45.43:807][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/FPWeapon/Textures/T_FPGun_N.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset
+[2018.07.06-21.45.43:808][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Meshes/BaseMaterial.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Meshes/BaseMaterial.uasset
+[2018.07.06-21.45.43:808][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Meshes/CubeMaterialOverride.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset
+[2018.07.06-21.45.43:809][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Meshes/FirstPersonProjectileMaterial.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset
+[2018.07.06-21.45.43:809][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Meshes/FirstPersonProjectileMesh.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset
+[2018.07.06-21.45.43:810][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/Standard/FirstPerson/Content/Textures/FirstPersonCrosshair.uasset to D:/Unreal/TestingGrounds/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset
+[2018.07.06-21.45.43:811][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/1M_Cube.uasset to D:/Unreal/TestingGrounds/Content/Geometry/Meshes/1M_Cube.uasset
+[2018.07.06-21.45.43:813][ 82]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/Geometry/Content/Meshes/CubeMaterial.uasset to D:/Unreal/TestingGrounds/Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.07.06-21.45.43:819][ 82]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.06-21.45.43:834][ 82]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.19/FeaturePacks/FP_FirstPerson.upack)
+[2018.07.06-21.45.43:842][ 82]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.06-21.45.43:842][ 82]LogPackFactory: Error: Unable to copy file "../../../Templates/FP_FirstPerson/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset" to "D:/Unreal/TestingGrounds/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset".
+[2018.07.06-21.45.43:843][ 82]LogPackFactory: Error: Unable to copy file "../../../Templates/FP_FirstPerson/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" to "D:/Unreal/TestingGrounds/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap".
+[2018.07.06-21.45.43:889][ 82]Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal/TestingGrounds/TestingGrounds.uproject" -game -rocket -progress
+[2018.07.06-21.45.44:201][ 82]Discovering modules, targets and source code for project...
+[2018.07.06-21.45.48:874][ 82]Candidate modules for hot reload:
+[2018.07.06-21.45.48:874][ 82]  TestingGrounds
+[2018.07.06-21.45.48:874][ 82]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe TestingGrounds -ModuleWithSuffix=TestingGrounds,6866 Win64 Development -editorrecompile -canskiplink "D:/Unreal/TestingGrounds/TestingGrounds.uproject" ]
+[2018.07.06-21.46.12:837][ 82]CompilerResultsLog: New page: Compilation - 07-Jul-2018 8:46:12 am
+[2018.07.06-21.46.12:838][ 82]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2018.07.06-21.46.12:838][ 82]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.07.06-21.46.12:838][ 82]CompilerResultsLog: Creating makefile for hot reloading TestingGrounds (no existing makefile)
+[2018.07.06-21.46.12:838][ 82]CompilerResultsLog: Compiling game modules for hot reload
+[2018.07.06-21.46.12:839][ 82]CompilerResultsLog: Parsing headers for TestingGroundsEditor
+[2018.07.06-21.46.12:839][ 82]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal\TestingGrounds\TestingGrounds.uproject" "D:\Unreal\TestingGrounds\Intermediate\Build\Win64\TestingGroundsEditor\Development\TestingGroundsEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.07.06-21.46.12:839][ 82]CompilerResultsLog: Reflection code generated for TestingGroundsEditor in 9.5742154 seconds
+[2018.07.06-21.46.12:840][ 82]CompilerResultsLog: Distributing 9 actions to XGE
+[2018.07.06-21.46.12:840][ 82]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2018.07.06-21.46.12:840][ 82]CompilerResultsLog: License is invalid:
+[2018.07.06-21.46.12:840][ 82]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2018.07.06-21.46.12:841][ 82]CompilerResultsLog:     This build will run in standalone mode.
+[2018.07.06-21.46.12:841][ 82]CompilerResultsLog: 
+[2018.07.06-21.46.12:841][ 82]CompilerResultsLog: -------------------------------------------------------------------------------
+[2018.07.06-21.46.12:841][ 82]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2018.07.06-21.46.12:841][ 82]CompilerResultsLog: FP_FirstPersonCharacter.gen.cpp (0:00.78 at +0:00)
+[2018.07.06-21.46.12:841][ 82]CompilerResultsLog: TestingGrounds.init.gen.cpp (0:00.46 at +0:00)
+[2018.07.06-21.46.12:842][ 82]CompilerResultsLog: FP_FirstPersonHUD.gen.cpp (0:00.64 at +0:01)
+[2018.07.06-21.46.12:842][ 82]CompilerResultsLog: FP_FirstPersonGameMode.gen.cpp (0:00.65 at +0:01)
+[2018.07.06-21.46.12:842][ 82]CompilerResultsLog: FP_FirstPersonHUD.cpp (0:00.89 at +0:02)
+[2018.07.06-21.46.12:842][ 82]CompilerResultsLog: FP_FirstPersonGameMode.cpp (0:00.84 at +0:03)
+[2018.07.06-21.46.12:842][ 82]CompilerResultsLog: FP_FirstPersonCharacter.cpp (0:01.15 at +0:04)
+[2018.07.06-21.46.12:842][ 82]CompilerResultsLog: UE4Editor-TestingGrounds-6866.dll (0:00.79 at +0:05)
+[2018.07.06-21.46.12:842][ 82]CompilerResultsLog:    Creating library D:\Unreal\TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds-6866.suppressed.lib and object D:\Unreal\TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds-6866.suppressed.exp
+[2018.07.06-21.46.12:843][ 82]CompilerResultsLog: UE4Editor-TestingGrounds-6866.lib (0:00.15 at +0:06)
+[2018.07.06-21.46.12:843][ 82]CompilerResultsLog:    Creating library D:\Unreal\TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds-6866.lib and object D:\Unreal\TestingGrounds\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestingGrounds-6866.exp
+[2018.07.06-21.46.12:843][ 82]CompilerResultsLog: ---------------------- Done ----------------------
+[2018.07.06-21.46.12:843][ 82]CompilerResultsLog: 
+[2018.07.06-21.46.12:843][ 82]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2018.07.06-21.46.12:843][ 82]CompilerResultsLog: 
+[2018.07.06-21.46.12:843][ 82]CompilerResultsLog: 1 build system warning(s):
+[2018.07.06-21.46.12:843][ 82]CompilerResultsLog:    - License is invalid
+[2018.07.06-21.46.12:844][ 82]CompilerResultsLog: 
+[2018.07.06-21.46.12:844][ 82]CompilerResultsLog: 
+[2018.07.06-21.46.12:844][ 82]CompilerResultsLog: 
+[2018.07.06-21.46.12:844][ 82]CompilerResultsLog: Total build time: 23.73 seconds (XGE executor: 6.68 seconds)
+[2018.07.06-21.46.12:844][ 82]LogMainFrame: MainFrame: Module compiling took 23.978 seconds
+[2018.07.06-21.46.12:872][ 82]LogClass: Could not find existing class FP_FirstPersonCharacter in package /Script/TestingGrounds for HotReload, assuming new class
+[2018.07.06-21.46.12:873][ 82]LogClass: Could not find existing class FP_FirstPersonGameMode in package /Script/TestingGrounds for HotReload, assuming new class
+[2018.07.06-21.46.12:873][ 82]LogClass: Could not find existing class FP_FirstPersonHUD in package /Script/TestingGrounds for HotReload, assuming new class
+[2018.07.06-21.46.12:881][ 82]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds' in 0.0008 seconds. Added 7 classes and 3 folders.
+[2018.07.06-21.46.12:882][ 82]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.07.06-21.46.12:997][ 82]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2460 classes and 563 folders.
+[2018.07.06-21.46.12:997][ 82]Display: HotReload took 24.1s.
+[2018.07.06-21.46.13:000][ 82]Warning: HotReload operation took 24.1s.
+[2018.07.06-21.46.15:115][ 82]LogSlate: Window 'Message' being destroyed
+[2018.07.06-21.46.17:186][ 82]LogSlate: Window 'Message' being destroyed
+[2018.07.06-21.46.17:194][ 82]LogAssetTools: Warning: Failed to import 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/FP_FirstPerson.upack'. Failed to create asset '/Game/FP_FirstPerson'.
+Please see Output Log for details.
+[2018.07.06-21.46.17:204][ 82]LogFeaturePack: Warning: No objects imported installing pack /Game
+[2018.07.06-21.46.17:204][ 82]LogLinker: Warning: Can't find file '/Game/FirstPersonCPP/FirstPersonOverview'
+[2018.07.06-21.46.17:205][ 82]LogLinker: Warning: Can't find file '/Game/FirstPersonCPP/FirstPersonOverview'
+[2018.07.06-21.46.17:205][ 82]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonCPP/FirstPersonOverview.FirstPersonOverview'
+[2018.07.06-21.46.17:208][ 82]LogHotReload: New module detected: UE4Editor-TestingGrounds-6866.dll
+[2018.07.06-21.46.17:229][ 83]LogHotReload: Starting Hot-Reload from IDE
+[2018.07.06-21.46.17:278][ 83]LogContentBrowser: Native class hierarchy updated for 'TestingGrounds' in 0.0008 seconds. Added 7 classes and 3 folders.
+[2018.07.06-21.46.17:279][ 83]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.07.06-21.46.17:307][ 83]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2460 classes and 563 folders.
+[2018.07.06-21.46.17:316][ 83]Display: HotReload took  0.1s.
+[2018.07.06-21.46.18:790][243]LogSlate: Window 'Add Content to the Project' being destroyed
+[2018.07.06-21.46.23:774][830]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.06-21.46.56:796][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.06-21.48.01:871][336]LogSlate: Window 'Add Content to the Project' being destroyed

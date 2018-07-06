@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\TestingGrounds.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{9CBD05A7-96D7-45A3-90B0-49BD94565A81}</UniqueIdentifier>
+			<UniqueIdentifier>{448CFCE5-728C-4EE7-86AD-3AC8522C705E}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{FF40ACEB-C736-45B6-BD72-55779CADD773}</UniqueIdentifier>
+			<UniqueIdentifier>{BFB89B1F-DF3A-429B-B934-4A477201CF69}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\TestingGrounds">
-			<UniqueIdentifier>{7B408608-261D-46E3-981B-39BCE3E2F294}</UniqueIdentifier>
+			<UniqueIdentifier>{98CB24ED-9697-46DA-8E71-B356A478AA42}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\TestingGrounds\TestingGrounds.Build.cs">
 			<Filter>Source\TestingGrounds</Filter>
@@ -65,6 +65,30 @@
 		</ClCompile >
 		<ClInclude Include="..\..\Source\TestingGrounds\TestingGroundsProjectile.h">
 			<Filter>Source\TestingGrounds</Filter>
+		</ClInclude >
+		<Filter Include="Source\TestingGrounds\FP_FirstPerson">
+			<UniqueIdentifier>{9C7C47C7-0061-407E-9404-0A145E71E88F}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\TestingGrounds\FP_FirstPerson\FP_FirstPerson.h">
+			<Filter>Source\TestingGrounds\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds\FP_FirstPerson\FP_FirstPersonCharacter.cpp">
+			<Filter>Source\TestingGrounds\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds\FP_FirstPerson\FP_FirstPersonCharacter.h">
+			<Filter>Source\TestingGrounds\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds\FP_FirstPerson\FP_FirstPersonGameMode.cpp">
+			<Filter>Source\TestingGrounds\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds\FP_FirstPerson\FP_FirstPersonGameMode.h">
+			<Filter>Source\TestingGrounds\FP_FirstPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\TestingGrounds\FP_FirstPerson\FP_FirstPersonHUD.cpp">
+			<Filter>Source\TestingGrounds\FP_FirstPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\TestingGrounds\FP_FirstPerson\FP_FirstPersonHUD.h">
+			<Filter>Source\TestingGrounds\FP_FirstPerson</Filter>
 		</ClInclude >
 	</ItemGroup>
 </Project>
